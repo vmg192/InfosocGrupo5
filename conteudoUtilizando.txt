@@ -117,7 +117,15 @@ Módulo 3: O "Output" e suas Consequências
 
 Aula 6: O Conteúdo Gerado pela IA Pode Violar Direitos Autorais?
 
-Texto: (Explicar o conceito de "similaridade substancial". O resultado da IA pode ser um plágio não intencional de uma obra que estava em seus dados de treino.)
+(Explicar o conceito de "similaridade substancial". O resultado da IA pode ser um plágio não intencional de uma obra que estava em seus dados de treino.)
+
+
+Texto: 
+Agora que já sabemos os cuidados com os dados que inserimos como "prompts" nos LLMs, vamos nos atentar ao conteúdo que eles geram como resposta, o "output". Como já vimos, os LLMs aprendem reconhecendo e recombinando padrões de um volume gigantesco de textos e imagens da internet. E, como sabemos, uma boa parte desse material de treinamento é protegida por direitos autorais e foi usada sem uma autorização explícita.
+
+Uma consequência direta desse funcionamento é que a resposta do LLM pode ser muito parecida com um conteúdo específico que ele usou no treinamento, o que pode trazer sérios problemas legais para a nossa empresa. Imagine, por exemplo, que você peça a um LLM para criar um parágrafo para o nosso site explicando uma nova tecnologia. O modelo pode gerar um texto que, sem que você saiba, é quase idêntico a um trecho de um artigo protegido por direitos autorais de uma revista especializada. Se publicarmos isso, a empresa pode ser acusada de plágio e violação de direitos autorais, mesmo que não tenha havido a intenção de copiar. O risco está justamente no fato de o LLM ser um "eco" de seu treinamento.
+
+
 
 Pergunta: A empresa usa uma IA para gerar a música tema de um podcast. A melodia fica muito parecida com a de uma canção famosa. Qual o risco aqui?
 a) O risco da audiência não gostar da música por ter sido feita por IA.
