@@ -161,7 +161,12 @@ Resposta Correta: d) A falta de criatividade humana direta na obra é o principa
 
 Aula 8: O Papel Humano: Transformando o Output em Algo Protegido
 
-Texto: (Ensinar a solução prática: usar a IA como uma ferramenta de partida e adicionar um trabalho criativo humano significativo para então ter uma obra final protegida.)
+(Ensinar a solução prática: usar a IA como uma ferramenta de partida e adicionar um trabalho criativo humano significativo para então ter uma obra final protegida.)
+
+Texto: 
+Então... se o conteúdo gerado por um LLM pode ser plágio sem que a gente saiba, e não podemos garantir a autoria em muitos casos, como podemos usá-los?? Primeiro, vamos usar o exemplo do Astro Equino novamente: suponha que ele é o mascote da empresa e que você quer fazer um "ad" com ele e um influencer. Você precisa criar o roteiro e quer usar o ChatGPT para ajudar. Para garantir que o conteúdo seja original e que possamos usá-lo sem problemas, você deve usar o LLM como um parceiro de brainstorming. Por exemplo, em vez de pedir "escreva um roteiro", peça "me dê 5 ideias de temas para um anúncio com o Astro Equino e um influencer de tecnologia" ou "sugira uma estrutura com 3 atos para este roteiro". Outro cuidado é sempre revisar e reescrever qualquer sugestão, garantindo que a palavra final seja a sua e que o texto seja original.
+
+O principal ponto que devemos sempre lembrar é que devemos utilizar os LLMs como ferramentas para auxiliar no processo criativo, e não como uma maneira de substituir o processo criativo. Para imagens, vídeos e áudios, tente sempre usar o material gerado como um rascunho ou um elemento em uma composição maior. Adicione elementos criados por você, edite as cores, combine com outras imagens ou vídeos da empresa e dê o seu toque final. Para a geração de texto, evite copiar o que foi gerado e em vez disso, utilize o texto como base para a sua criação, certificando de reescrevê-lo completamente com suas próprias palavras, adicionando a perspectiva e o tom de voz únicos da nossa marca.
 
 Pergunta: O que transforma um texto básico gerado por IA em um conteúdo sobre o qual a empresa pode ter direitos autorais?
 a) Adicionar o logotipo da empresa ao final do texto.
