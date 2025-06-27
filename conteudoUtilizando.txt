@@ -161,7 +161,6 @@ Resposta Correta: d) A falta de criatividade humana direta na obra é o principa
 
 Aula 8: O Papel Humano: Transformando o Output em Algo Protegido
 
-(Ensinar a solução prática: usar a IA como uma ferramenta de partida e adicionar um trabalho criativo humano significativo para então ter uma obra final protegida.)
 
 Texto: 
 Então... se o conteúdo gerado por um LLM pode ser plágio sem que a gente saiba, e não podemos garantir a autoria em muitos casos, como podemos usá-los?? Primeiro, vamos usar o exemplo do Astro Equino novamente: suponha que ele é o mascote da empresa e que você quer fazer um "ad" com ele e um influencer. Você precisa criar o roteiro e quer usar o ChatGPT para ajudar. Para garantir que o conteúdo seja original e que possamos usá-lo sem problemas, você deve usar o LLM como um parceiro de brainstorming. Por exemplo, em vez de pedir "escreva um roteiro", peça "me dê 5 ideias de temas para um anúncio com o Astro Equino e um influencer de tecnologia" ou "sugira uma estrutura com 3 atos para este roteiro". Outro cuidado é sempre revisar e reescrever qualquer sugestão, garantindo que a palavra final seja a sua e que o texto seja original.
@@ -177,13 +176,20 @@ d) Publicar o texto no blog da empresa antes de qualquer outra pessoa.
 Resposta Correta: c) A contribuição criativa humana é o elemento chave para transformar o resultado da IA em uma obra passível de proteção autoral.
 
 
-
 Módulo 4: Agindo com Segurança
 
 
 Aula 9: Ferramentas e Verificação Prática
 
-Texto: (Dar dicas práticas e acionáveis, como usar verificadores de plágio para textos e busca reversa de imagens para checar a originalidade das criações.)
+
+Texto: 
+Nesta aula, vamos conhecer algumas ferramentas e técnicas práticas que você pode usar para verificar a originalidade do conteúdo antes de publicá-lo. Teoricamente, seguindo as instruções da última aula, você não deveria ter que se preocupar tanto em estar plagiando algo. No entanto, mesmo assim é bom conferir, já que algum descuido sempre pode acontecer.
+
+Para textos, o maior risco é o plágio acidental. A melhor maneira de se previnir é usar os verificadores de plágio e similaridade. Essas ferramentas comparam o seu texto com bilhões de documentos, artigos e páginas na internet para encontrar trechos correspondentes. Existem muitas opções no mercado, algumas gratuitas para trechos curtos e outras mais robustas, pagas. O importante é criar o hábito de passar trechos importantes gerados por LLMs por uma dessas ferramentas antes de aprová-los para uso final.
+
+Para imagens geradas por LLMs, o risco é que elas sejam muito similares a uma foto ou ilustração já existente. Uma técnica simples e poderosa para checar isso é a busca reversa de imagens. Ferramentas como TinEye e a busca reversa de imagens do google podem ser usadas, mas também há a necessidade de verificar se algo representado na imagem não é de propriedade de outra pessoa, como um personagem.
+
+Vale ressaltar que essas ferramentas podem apresentar falsos negativos, então o melhor é fazer uma combinação da verificação humana (sua análise crítica) com a verificação da ferramenta é o que nos dá a maior segurança possível de que nosso trabalho é original e respeita os direitos de terceiros.
 
 Pergunta: Antes de usar uma imagem gerada por IA em um post de rede social, qual é um passo prático e rápido que ajuda a verificar se ela é perigosamente similar a uma imagem existente?
 a) Perguntar a um colega se ele já viu a imagem antes.
@@ -198,7 +204,9 @@ Resposta Correta: b) A busca reversa é uma ferramenta prática e acessível par
 
 Aula 10: Política da Empresa e A Quem Recorrer
 
-Texto: (Reforçar a política interna e deixar claro qual é o procedimento correto quando surgir uma dúvida, consolidando todo o aprendizado.)
+Texto: 
+Muito bem! Você chegou no final das aulas! O grande objetivo deste curso foi mostrar que os LLMs são excelentes assistentes, mas não devem ser usados para substituir o processo criativo humano. Ao longo destas aulas, aprendemos a importância de proteger as informações da empresa e de nossos clientes no input, e a tratar o output com um olhar crítico, adicionando nossa criatividade e verificando a originalidade do conteúdo. A regra de ouro, que vale para todas as situações e sempre deve ser seguida, é simples: na dúvida, não continue e pergunte ao seu superior o que fazer. 
+
 
 Pergunta: Você tem uma dúvida específica sobre o uso de um texto gerado por IA para um novo contrato comercial. Qual é a única atitude 100% segura?
 a) Pesquisar a resposta em blogs de tecnologia e seguir o que eles recomendam.
