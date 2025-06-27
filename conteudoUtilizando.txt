@@ -7,7 +7,7 @@ Texto:
 Primeiramente, é essencial definir o que é Direito Autoral e o que ele protege. De acordo com a Lei nº 9.610/98, conhecida como a Lei de Direitos Autorais, o direito autoral é o conjunto de prerrogativas que a lei garante ao criador de uma obra intelectual para que ele possa gozar dos benefícios morais e patrimoniais resultantes da exploração de suas criações.
 Logo, para saber se algo é protegido ou não, precisamos definir o que é uma obra. Conforme o Art. 7º da mesma lei, obras são as criações do espírito, expressas por qualquer meio ou fixadas em qualquer suporte, tangível ou intangível. Isso inclui diversos tipos de criações como textos, músicas, ilustrações, fotografias, apresentações de slides e até mesmo programas de computador. É fundamental entender que a lei protege a expressão de uma ideia, e não a ideia em si. Por exemplo, a ideia de criar um aplicativo de entregas não é protegida, mas o código-fonte específico, o design dos ícones e os textos escritos para esse aplicativo são protegidos como obras.
 Além disso, é importante saber que a obra é considerada protegida a partir do momento em que é fixada em algum meio. Ela pode ser escrita em um papel ou salva em um arquivo digital, não é necessário usar patentes ou publicá-las, pois a proteção do direito autoral no Brasil é automática. Por exemplo, no momento em que um designer salva o arquivo de um novo logotipo que criou, ou quando um redator finaliza e salva o texto para uma postagem de blog, essa obra já está automaticamente protegida pela Lei de Direitos Autorais.
-Outro ponto de extrema importância é esclarecer os dois "tipos" de direitos garantidos pela lei: o moral e o patrimonial. O direito moral está intrinsecamente ligado à pessoa do autor, sendo intransferível e irrenunciável. Ele garante ao criador o direito de ter seu nome associado à obra, de se opor a modificações que a prejudiquem e de mantê-la inédita, se assim desejar. No entanto, o direito patrimonial nem sempre será do autor da obra, já que ele se refere ao direito exclusivo de utilizar, fruir e dispor economicamente da criação. São esses direitos que podem ser transferidos ou licenciados a terceiros, como no caso de um trabalho contratado ou de um vínculo empregatício, onde a empresa se torna a titular dos direitos de exploração econômica da obra.
+Outro ponto de extrema importância é esclarecer os dois "tipos" de direitos garantidos pela lei: o moral e o patrimonial. O direito moral está ligado à pessoa do autor, sendo intransferível e irrenunciável. Ele garante ao criador o direito de ter seu nome associado à obra, de se opor a modificações que a prejudiquem e de mantê-la inédita, se assim desejar. No entanto, o direito patrimonial nem sempre será do autor da obra, já que ele se refere ao direito exclusivo de utilizar, fruir e dispor economicamente da criação. São esses direitos que podem ser transferidos ou licenciados a terceiros, como no caso de um trabalho contratado ou de um vínculo empregatício, onde a empresa se torna a titular dos direitos de exploração econômica da obra.
 
 Pergunta: Qual das seguintes afirmações sobre direitos autorais é a correta?
 
@@ -117,8 +117,6 @@ Módulo 3: O "Output" e suas Consequências
 
 Aula 6: O Conteúdo Gerado pela IA Pode Violar Direitos Autorais?
 
-(Explicar o conceito de "similaridade substancial". O resultado da IA pode ser um plágio não intencional de uma obra que estava em seus dados de treino.)
-
 
 Texto: 
 Agora que já sabemos os cuidados com os dados que inserimos como "prompts" nos LLMs, vamos nos atentar ao conteúdo que eles geram como resposta, o "output". Como já vimos, os LLMs aprendem reconhecendo e recombinando padrões de um volume gigantesco de textos e imagens da internet. E, como sabemos, uma boa parte desse material de treinamento é protegida por direitos autorais e foi usada sem uma autorização explícita.
@@ -140,7 +138,14 @@ Resposta Correta: b) O uso de um output que é substancialmente similar a uma ob
 
 Aula 7: Quem é o "Dono" do Conteúdo Gerado pela IA?
 
-Texto: (Esclarecer que, segundo a legislação atual na maioria dos países, obras criadas 100% por uma máquina não recebem proteção de direito autoral por falta de um autor humano.)
+
+Texto:
+Outra questão muito polêmica sobre o conteúdo gerado por LLMs é a da autoria. É importante lembrar que, para um conteúdo ser protegido por direitos autorais, a lei exige que ele tenha origem na criatividade de um autor humano.
+
+Existe um debate sobre quem é o autor do conteúdo gerado, e a resposta depende do nível de contribuição humana. Por exemplo, se uma pessoa pede para um LLM "gerar a imagem de um astronauta em um cavalo", sem especificar mais nada. Nesse caso, a tendência legal atual, principalmente nos EUA, país que lidera essa discussão, é de que a imagem gerada não pode ser protegida por direitos autorais, pois faltou o elemento fundamental de autoria humana. O comando foi simples demais e a máquina fez todo o trabalho criativo. No entanto, caso você, como artista, tenha criado e desenhado um personagem original e peça ao LLM para "gerar uma imagem do meu personagem 'Astro Equino' em uma paisagem de Marte", o argumento é que você continua sendo o dono dos direitos sobre o seu personagem original. A imagem em si pode não ser protegível, mas ninguém pode usar o seu personagem 'Astro Equino' que aparece nela sem a sua permissão.
+
+Resumindo, o conteúdo 100% gerado por um LLM dificilmente pode ser protegido por direitos autorais por si só. Contudo, os personagens, logotipos, nomes específicos, trechos de texto originais e outros elementos que você criou previamente e que são inseridos ou utilizados na geração de conteúdo continuam protegidos pelos seus próprios direitos autorais.
+
 
 Pergunta: Se um funcionário digita um comando simples ("crie uma imagem de um cachorro na lua") e a IA gera uma imagem sem qualquer outra intervenção, quem a lei considera o dono dos direitos autorais da imagem?
 
@@ -166,9 +171,9 @@ d) Publicar o texto no blog da empresa antes de qualquer outra pessoa.
 
 Resposta Correta: c) A contribuição criativa humana é o elemento chave para transformar o resultado da IA em uma obra passível de proteção autoral.
 
+
+
 Módulo 4: Agindo com Segurança
-
-
 
 
 Aula 9: Ferramentas e Verificação Prática
