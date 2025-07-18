@@ -1,3 +1,8 @@
+URL para acessar o app:
+
+https://iadobem.streamlit.app/
+
+
 Como adicionar novas aulas:
 
 Para adicionar novas aulas, basta modificar o arquivo conteudo_curso.csv presente neste repositório. No formato descrito a seguir, altere o conteúdo dentro de " " para o que desejar.
