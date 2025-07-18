@@ -99,7 +99,7 @@ if 'conteudo_curso' not in st.session_state:
 
 #Telas
 def exibir_tela_1_temas():
-    st.title("Olá! Escolha um Módulo para aprender mais hoje!")
+    st.title("Olá! Escolha o Módulo que irá estudar hoje!")
     st.info("Esse site contém um conjunto de aulas, selecionados pela sua empresa, para que você possa se capacitar mais em áreas de extrema importância para todos nós!")
     # Vai criar um botão por módulo
     for nome_tema in st.session_state.conteudo_curso.keys():
