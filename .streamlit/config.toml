@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# Cor primária para elementos interativos
+primaryColor="#FF4B4B" 
+
+# Cor de fundo do conteúdo principal
+backgroundColor="#FFFFFF" 
+
+# Cor de fundo da barra lateral e outros elementos de fundo
+secondaryBackgroundColor="#F0F2F6" 
+
+# Cor do texto
+textColor="#262730" 
+
+# Tipo de fonte a ser usada
+font = "sans serif" # Pode ser "sans serif", "serif", ou "monospace"
