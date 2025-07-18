@@ -2,6 +2,9 @@ URL para acessar o app:
 
 https://iadobem.streamlit.app/
 
+Apresentação de aula:
+
+https://www.canva.com/design/DAGjsp3L44k/aF9OmMuPVwmIOwfLCSNWHw/edit?utm_content=DAGjsp3L44k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Como adicionar novas aulas:
 
